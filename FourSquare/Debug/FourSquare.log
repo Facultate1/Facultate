@@ -1,0 +1,7 @@
+﻿  FourSquare.cpp
+c:\users\rx\source\repos\foursquare\foursquare\foursquare.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\rx\source\repos\foursquare\foursquare\foursquare.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\rx\source\repos\foursquare\foursquare\foursquare.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\rx\source\repos\foursquare\foursquare\foursquare.cpp(242): warning C4101: 'j': unreferenced local variable
+c:\users\rx\source\repos\foursquare\foursquare\foursquare.cpp(242): warning C4101: 'i': unreferenced local variable
+  FourSquare.vcxproj -> c:\users\rx\source\repos\FourSquare\Debug\FourSquare.exe
